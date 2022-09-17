@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aleyland
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 📫 How to reach me  instagram => @leylalandistan 
 ---> 
